@@ -1,0 +1,27 @@
+From luis.cortes at rackspace.com  Thu Jun  7 21:08:43 2007
+From: luis.cortes at rackspace.com (Luis Cortes)
+Date: Thu, 07 Jun 2007 14:08:43 -0500
+Subject: [Hjb-pyhjb-users] Request for simple test scripts
+Message-ID: <466857BB.6010504@rackspace.com>
+
+Hi:
+
+Just looking for a simple script or two to set my setup of HJB on 
+Tomcat.  Does anyone have something I can use?
+
+TIA,
+Luis.
+
+
+
+Confidentiality Notice: This e-mail message (including any attached or
+embedded documents) is intended for the exclusive and confidential use of the
+individual or entity to which this message is addressed, and unless otherwise
+expressly indicated, is confidential and privileged information of Rackspace
+Managed Hosting. Any dissemination, distribution or copying of the enclosed
+material is prohibited. If you receive this transmission in error, please
+notify us immediately by e-mail at abuse at rackspace.com, and delete the
+original message. Your cooperation is appreciated.
+
+
+
